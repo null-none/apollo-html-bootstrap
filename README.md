@@ -3,7 +3,7 @@
 ## Overview
 Apollo is a clean and minimal responsive Bootstrap 5 admin template.
 
-<strong><a href="https://apollo-html-bootstrap.netlify.com/">View Demo</a></strong>
+<strong><a href="https://apollo-html-bootstrap.netlify.app">View Demo</a></strong>
 
 ## Requirements
 If you do not intend to work with the template source code (and that means you will not be compiling it or running the Webpack dev server), you do not need to install anything. You can simply navigate to the dist folder and start editing the files.
